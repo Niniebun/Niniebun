@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Niniebun
+- 👋 Hi, I’m Niniebun
 - 👀 I’m interested in connecting with and conversing with people from around the world. 
 - 🌱 I’m currently learning coding 
 - 💞️ I’m looking to collaborate on web development and software development.
